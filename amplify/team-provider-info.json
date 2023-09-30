@@ -12,14 +12,14 @@
       "AmplifyAppId": "d2smnxmu50nwxz"
     },
     "categories": {
-      "auth": {
-        "amplifyreactgraphqlea86e5f2": {}
-      },
       "api": {
         "amplifyreactgraphql": {}
       },
       "storage": {
         "s3fcd6b108": {}
+      },
+      "auth": {
+        "amplifyreactgraphql75219492": {}
       }
     }
   }
